@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Voynich manuscript</title>
+</head>
+<body>
+  <iframe 
+    src="https://collections.library.yale.edu/uv.html#manifest=https%3A%2F%2Fcollections.library.yale.edu%2Fmanifests%2F2002046&c=0&m=0&cv=0&config=&locales=en-GB%3AEnglish+%28GB%29%2Ccy-GB%3ACymraeg%2Cfr-FR%3AFran%C3%A7ais+%28FR%29%2Cpl-PL%3APolski%2Csv-SE%3ASvenska%2Cxx-XX%3AEnglish+%28GB%29+%28xx-XX%29&xywh=-39%2C336%2C5592%2C3578&r=0"
+    width="800"
+    height="600"
+    allowfullscreen
+    frameborder="0">
+  </iframe>
+</body>
+</html>
